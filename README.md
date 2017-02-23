@@ -1,3 +1,4 @@
+Repro script for https://github.com/DoctorMcKay/node-binarykvparser/issues/2
 ### Running
 - `npm install`
 - Make a file called `secrets.json` with the contents
